@@ -1,7 +1,7 @@
 # rulesmd.ini
 
 ## Description
-Modificated rules.ini files of 17 Red Alert 2 MODs
+Modificated rules.ini files of 17 Red Alert 2 MODs.
 
 <!-- ## Software Architecture
 Software architecture description
