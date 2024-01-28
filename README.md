@@ -5,19 +5,19 @@
 <!-- ## Description -->
 ## About
 * Modified rules.ini files of 17 Red Alert 2 MODs.
-    * edited around 2014...?
+    * Edited during high school around 2014...?
 
 ## Inplementation
 0. Provide Xcc_Mixer.exe to extract .ini for each mod from the .mix file,  
-    * Generally speaking, the extraction target is expand.mix
+    * Generally speaking, the extraction target is expand.mix,
     * but it could be expandmd.mix (Related to Yuri's Revenge), etc.
 1. There are 17 original and modified rules.ini files of old mods(' versions) in the folder,  
-    * The (prefix part "rules" of) name "rules.ini" may vary from mod to mod.
+    * The (prefix part "rules" of) name "rules.ini" may vary from mod to mod,
         * similiar to the "expand.mix" case.
 2. The .pdf file provides "instances" to modify different mods' rules.ini files.
     * The modification of rules.ini files across different mods is similar.
-    * It is easier to modify rules.ini across versions of the same mod.
-        * the modified rulesmo.ini for mo-3.3.6 has now been added.
+    * It is easier to modify rules.ini across versions of the same mod,
+        * e.g., the modified rulesmo.ini for mo-3.3.6 has now been added.
 
 <!-- ## Software Architecture
 Software architecture description

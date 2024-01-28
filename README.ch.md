@@ -4,7 +4,7 @@
 
 ## 介绍
 * 修改后的 17 个 红警2 MOD 的 rules.ini 文件
-    * 编辑于 2014...?
+    * 编辑于 2014 年 左右的 高中时期...?
 
 ## 实施
 0. 提供 Xcc_Mixer.exe 工具 从 .mix 文件中 提取各 .ini，  
@@ -13,8 +13,8 @@
     * 不同 mod 的 rules.ini (前缀)名 rules 可能不同，与 expand.mix 相似。
 2. 根据 .pdf 提供的 “实例” 来修改。  
     * 不同 mod 的 rules.ini 文件的修改都大同小异。  
-    * 更容易的是对 同一个 mod 的 rules.ini 跨版本 移植。  
-        * 该 repo 已更新 mo-3.3.6 的 rulesmo.ini。
+    * 更容易的是对 同一个 mod 的 rules.ini 跨版本 移植，  
+        * 比如，该 repo 已更新 mo-3.3.6 的 rulesmo.ini。
     
 
 <!-- ## 软件架构
