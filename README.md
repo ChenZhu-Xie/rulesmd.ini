@@ -1,3 +1,5 @@
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover2.png)
+
 # rulesmd.ini
 
 <!-- ## Description -->
