@@ -1,7 +1,18 @@
 # rulesmd.ini
 
-## Description
-Modificated rules.ini files of 17 Red Alert 2 MODs.
+<!-- ## Description -->
+## About
+Modified rules.ini files of 17 Red Alert 2 MODs.
+
+## Inplementation
+0. Provide xccmixer to help extract .ini for each mod from the .mix file,  
+    * Generally speaking, the extraction target is expandmix, but it may not be.
+1. There are 17 original and modified rules.ini files of old mods(' versions) in the folder,  
+    * The (prefix part "rules" of) name "rules.ini" may vary from mod to mod.
+2. The .pdf file provides "instances" to modify different mod's .ini files.
+    * The modification of .ini files across different mods is similar.
+    * It is easier to port .ini across versions of the same mod.
+        * For example, the modified rulesmo.ini for mo-3.3.6 has now been added to this repo.
 
 <!-- ## Software Architecture
 Software architecture description
