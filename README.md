@@ -5,6 +5,7 @@
 <!-- ## Description -->
 ## About
 * Modified rules.ini files of 17 Red Alert 2 MODs.
+    * edited around 2014...?
 
 ## Inplementation
 0. Provide Xcc_Mixer.exe to extract .ini for each mod from the .mix file,  
