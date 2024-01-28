@@ -1,16 +1,16 @@
 # rulesmd.ini
 
 ## 介绍
-修改后的 17 个 红警2 MOD 的 rules.ini 文件
+* 修改后的 17 个 红警2 MOD 的 rules.ini 文件
 
 ## 实施
-0. 提供 xcc.mixer 工具 帮助从 .mix 文件中 提取各 .ini，  
-    * 一般是 expand.mix，但 也可能不是。
+0. 提供 Xcc_Mixer.exe 工具 从 .mix 文件中 提取各 .ini，  
+    * 一般是 expand.mix，但 也可能是 expandmd.mix 等（如 Yuri's revenge 相关）。
 1. 文件夹中有 17 个旧版 mod 的 原版 + 修改版 rules.ini 文件，  
-    * 不同 mod 的 rules.ini (前缀)名 rules 可能不同。
+    * 不同 mod 的 rules.ini (前缀)名 rules 可能不同，与 expand.mix 相似。
 2. 根据 .pdf 提供的 “实例” 来修改。  
-    * 不同 mod 的 .ini 文件的修改都大同小异。  
-    * 更容易的是对 同一个 mod 的 .ini 跨版本 移植。  
+    * 不同 mod 的 rules.ini 文件的修改都大同小异。  
+    * 更容易的是对 同一个 mod 的 rules.ini 跨版本 移植。  
         * 该 repo 已更新 mo-3.3.6 的 rulesmo.ini。
     
 
