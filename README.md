@@ -5,7 +5,7 @@
 <!-- ## Description -->
 ## About
 * Modified rules.ini files of 17 Red Alert 2 MODs.
-    * Summarized during the 3rd year of college around 2019 (2.5/4)...?
+    * Summarized during the 3rd year of college around 2019 (2.5/4 years)...?
 
 ## Inplementation
 0. Provide Xcc_Mixer.exe to extract .ini for each mod from the .mix file,  
