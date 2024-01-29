@@ -1,10 +1,11 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover2.png)
 
-# rulesmd.ini
+# rulesmd.ini (for personal use only)
 
 <!-- ## Description -->
 ## About
 * Modified rules.ini files of 17 Red Alert 2 MODs.
+    * 2012 ~ 2022: formated by 12 ~ 22-year-old xcz.
     * Summarized during the 3rd year of college around 2019 (2.5/4 years)...?
 
 ## Inplementation

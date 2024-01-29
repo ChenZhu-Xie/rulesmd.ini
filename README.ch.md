@@ -1,9 +1,10 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover2.png)
 
-# rulesmd.ini
+# rulesmd.ini (只供自用)
 
 ## 介绍
 * 修改后的 17 个 红警2 MOD 的 rules.ini 文件。
+    * 2012 ~ 2022: 由 12 ~ 22 岁的 小谢 完成格式化。
     * 总结于 2019 年 左右的 大三时期 (2.5/4 年)...?
 
 ## 实施
