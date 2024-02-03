@@ -5,8 +5,6 @@
 <!-- ## Description -->
 ## About
 * Modified rules.ini files of 17 Red Alert 2 MODs.
-    * 2012 ~ 2022: formated by 14 ~ 24-year-old xcz.
-    * Summarized during the 3rd year of college around 2019 (2.5/4.0 years)...?
 
 ## Inplementation
 0. Provide Xcc_Mixer.exe to extract .ini for each mod from the .mix file,  
@@ -19,6 +17,10 @@
     * The modification of rules.ini files across different mods is similar.
     * It is easier to modify rules.ini across versions of the same mod,
         * e.g., the modified rulesmo.ini for mo-3.3.6 has now been added.
+
+## History
+* Long term project (2012 ~ 2022): formated by 14 ~ 24-year-old xcz.
+* Summarized during the 3rd year of college around 2019 (2.5/4.0 years)...?
 
 <!-- ## Software Architecture
 Software architecture description
