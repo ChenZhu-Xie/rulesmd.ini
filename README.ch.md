@@ -2,8 +2,11 @@
 
 # rulesmd.ini (只供自用)
 
+<!-- ## 关于 -->
 ## 介绍
 * 修改后的 17 个 红警2 MOD 的 rules.ini 文件。
+
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover.png)
 
 ## 实施
 0. 提供 Xcc_Mixer.exe 工具 从 .mix 文件中 提取各 .ini，  
@@ -16,8 +19,10 @@
         * 比如，该 repo 已更新 mo-3.3.6 的 rulesmo.ini。
 
 ## 历史
-* 长期项目 (2012 ~ 2022): 由 14 ~ 24 岁的 小谢 完成格式化。
-* 总结于 2019 年 左右的 大三时期 (2.5/4.0 年)...?
+* 该项目 rulesmd.ini
+    * 是一个持续约 10 年的 长期项目 (2012 ~ 2022)
+    * 由 14 ~ 24 岁的 小谢 完成格式化
+    * 总结于 2019 年 左右的 大三时期 (2.5/4.0 年)
     
 
 <!-- ## 软件架构

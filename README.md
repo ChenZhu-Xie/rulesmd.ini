@@ -2,9 +2,11 @@
 
 # rulesmd.ini (for personal use only)
 
-<!-- ## Description -->
+<!-- ## About -->
 ## Description
 * Modified rules.ini files of 17 Red Alert 2 MODs.
+
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover.png)
 
 ## Inplementation
 0. Provide Xcc_Mixer.exe to extract .ini for each mod from the .mix file,  
@@ -19,8 +21,10 @@
         * e.g., the modified rulesmo.ini for mo-3.3.6 has now been added.
 
 ## History
-* Long term project (2012 ~ 2022): formated by 14 ~ 24-year-old xcz.
-* Summarized during the 3rd year of college around 2019 (2.5/4.0 years)...?
+* This repo (generate.cif) was
+    * a long term (10 years) project (2012 ~ 2022)
+    * formated by 14 ~ 24-year-old xcz
+    * summarized during the 3rd year of college around 2019 (2.5/4.0 years)
 
 <!-- ## Software Architecture
 Software architecture description
