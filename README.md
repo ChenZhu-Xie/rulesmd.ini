@@ -3,7 +3,7 @@
 # rulesmd.ini (for personal use only)
 
 <!-- ## Description -->
-## About
+## Description
 * Modified rules.ini files of 17 Red Alert 2 MODs.
 
 ## Inplementation
