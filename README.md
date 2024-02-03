@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover.png "The『effect』of modified『rulesmo.ini』in『Mental Omega 3.3.6』")
 
 # rulesmd.ini (for personal use only)
 
@@ -6,7 +6,7 @@
 ## Description
 * Modified rules.ini files of 17 Red Alert 2 MODs.
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover2.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover2.png "The『US flag』Code in『rulesmo.ini』")
 
 ## Inplementation
 0. Provide Xcc_Mixer.exe to extract .ini for each mod from the .mix file,  
