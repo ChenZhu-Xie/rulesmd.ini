@@ -6,7 +6,7 @@
 ## 介绍
 * 修改后的 17 个 红警2 MOD 的 rules.ini 文件。
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover2.png "『rulesmo.ini』中的『美国国旗』代码")
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover2.png "『rulesmd.ini』中的『美国国旗』代码")
 
 ## 实施
 0. 提供 Xcc_Mixer.exe 工具 从 .mix 文件中 提取各 .ini，  
