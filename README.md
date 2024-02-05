@@ -1,10 +1,16 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover.png "The『effect』of modified『rulesmo.ini』in『Mental Omega 3.3.6』")
 
-# rulesmd.ini (for personal use only)
+# rulesmd.ini (for personal use only!)
 
-<!-- ## About -->
+## About
+* This repo 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini) contains
+    * Modified rules.ini files of 17 Red Alert 2 MODs
+    * 「The process of modifying these 17 rules.ini files」.pdf
+
 ## Description
-* Modified rules.ini files of 17 Red Alert 2 MODs.
+* There are 17 original and modified rules.ini files of old mods(' versions) in the folder.
+* The .pdf file provides "instances" to modify different mods' rules.ini files.
+    * Provide Xcc_Mixer.exe to extract .ini for each mod from the .mix file.
 
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover2.png "The『US flag』Code in『rulesmd.ini』")
 
@@ -21,10 +27,10 @@
         * e.g., the modified rulesmo.ini for mo-3.3.6 has now been added.
 
 ## History
-* This repo (generate.cif) was
-    * a long term (10 years) project (2012 ~ 2022)
-    * formated by 14 ~ 24-year-old xcz
-    * summarized during the 3rd year of college around 2019 (2.5/4.0 years)
+* This repo 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini) was
+    * (World time) a long term (10 years) project (2012 ~ 2022)
+    * (Personal time) formated by 14 ~ 24-year-old xcz
+    * (Personal stage) summarized during the 3rd year of college around 2019 (2.5/4.0 years)
 
 <!-- ## Software Architecture
 Software architecture description
