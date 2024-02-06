@@ -3,7 +3,7 @@
 # rulesmd.ini (for personal use only!)
 
 ## About
-* This repo 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini) contains
+* This project 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini) contains
     * Modified rules.ini files of 17 Red Alert 2 MODs
     * 「The process of modifying these 17 rules.ini files」.pdf
 
@@ -27,7 +27,7 @@
         * e.g., the modified rulesmo.ini for mo-3.3.6 has now been added.
 
 ## History
-* This repo 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini) was
+* This project 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini) was
     * (World time) a long term (10 years) project (2012 ~ 2022)
     * (Personal time) formated by 14 ~ 24-year-old xcz
     * (Personal stage) summarized during the 3rd year of college around 2019 (2.5/4.0 years)
