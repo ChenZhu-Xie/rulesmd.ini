@@ -8,6 +8,7 @@
 * 该项目 👉 [rulesmd.ini](https://gitee.com/ChenZhu-Xie/rulesmd.ini) 包含
     * 修改后的 17 个 红警2 MOD 的 rules.ini 文件
     * 「修改 这 17 个 rules.ini 文件的过程」.pdf
+* English「README」ⓔ 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
 
 ## 介绍
 * 文件夹中有 17 个旧版 mod 的 原版 + 修改版 rules.ini 文件，

@@ -6,6 +6,7 @@
 * This project 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini) contains
     * Modified rules.ini files of 17 Red Alert 2 MODs
     * 「The process of modifying these 17 rules.ini files」.pdf
+* 中文「自述文档」㊥ 👉 [rulesmd.ini](https://gitee.com/ChenZhu-Xie/rulesmd.ini)
 
 ## Description
 * There are 17 original and modified rules.ini files of old mods(' versions) in the folder.
