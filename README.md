@@ -3,11 +3,10 @@
 # rulesmd.ini (for personal use only!)
 
 ## About
-* This project 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini) contains
-    * Modified rules.ini files of 17 Red Alert 2 MODs
-    * 「The process of modifying these 17 rules.ini files」.pdf
-* This project 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini) 
-    * Expanded from ⊂ [rulesmd.ini](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/2__2.2__rulesmd.ini__1.0_year)
+* This project 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini)
+    * Contains file ⊃ modified rules.ini files of 17 Red Alert 2 MODs
+    * Contains file ⊃「The process of modifying these 17 rules.ini files」.pdf
+    * Expanded from project ≺ [rulesmd.ini](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/2__2.2__rulesmd.ini__1.0_year)
         * Corresponding career ⊂ [senior-high-school activities](https://github.com/ChenZhu-Xie/senior-high-school_activities)
 * 中文「自述文档」㊥ 👉 [rulesmd.ini](https://gitee.com/ChenZhu-Xie/rulesmd.ini)
 
