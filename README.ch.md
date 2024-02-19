@@ -8,6 +8,9 @@
 * 该项目 👉 [rulesmd.ini](https://gitee.com/ChenZhu-Xie/rulesmd.ini) 包含
     * 修改后的 17 个 红警2 MOD 的 rules.ini 文件
     * 「修改 这 17 个 rules.ini 文件的过程」.pdf
+* 该项目 👉 [rulesmd.ini](https://gitee.com/ChenZhu-Xie/rulesmd.ini)
+    * 扩展自 ≺ [rulesmd.ini](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/2__2.2__rulesmd.ini__1.0_year)
+        * 属于生涯 ⊂ [高中 活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
 * English「README」ⓔ 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
 
 ## 介绍
