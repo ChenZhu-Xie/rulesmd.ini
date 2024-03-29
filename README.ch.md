@@ -19,7 +19,7 @@
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover2.png "『rulesmd.ini』中的『美国国旗』代码") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/rulesmd.ini/raw/master/img/cover2.png "『rulesmd.ini』中的『美国国旗』代码") -->
-[![fig](https://gitee.com/ChenZhu-Xie/rulesmd.ini/raw/master/img/cover2.png "『rulesmd.ini』中的『美国国旗』代码.pdf")](https://gitee.com/ChenZhu-Xie/rulesmd.ini/blob/master/17%E4%B8%AA%E7%BA%A2%E8%AD%A62MOD%E7%9A%84ini%E4%BF%AE%E6%94%B9%E5%AF%B9%E7%85%A7%E6%96%87%E6%A1%A3%EF%BC%88%E4%BB%85%E4%BE%9B%E8%87%AA%E5%A8%B1%E8%87%AA%E4%B9%90%EF%BC%9B%E5%9B%A0%E4%B8%BA%E6%88%91%E6%8A%80%E6%9C%AF%E4%B8%8D%E5%A4%AA%E5%A5%BD%EF%BC%8C%E5%8F%88%E5%8F%AA%E5%96%9C%E6%AC%A2%E6%86%8B%E6%86%8B%E4%B9%90%3D%20%3D...%EF%BC%89.pdf "『rulesmd.ini』中的『美国国旗』代码.pdf")
+[![fig](https://gitee.com/ChenZhu-Xie/rulesmd.ini/raw/master/img/cover2_paperclip.png "『rulesmd.ini』中的『美国国旗』代码.pdf")](https://gitee.com/ChenZhu-Xie/rulesmd.ini/blob/master/17%E4%B8%AA%E7%BA%A2%E8%AD%A62MOD%E7%9A%84ini%E4%BF%AE%E6%94%B9%E5%AF%B9%E7%85%A7%E6%96%87%E6%A1%A3%EF%BC%88%E4%BB%85%E4%BE%9B%E8%87%AA%E5%A8%B1%E8%87%AA%E4%B9%90%EF%BC%9B%E5%9B%A0%E4%B8%BA%E6%88%91%E6%8A%80%E6%9C%AF%E4%B8%8D%E5%A4%AA%E5%A5%BD%EF%BC%8C%E5%8F%88%E5%8F%AA%E5%96%9C%E6%AC%A2%E6%86%8B%E6%86%8B%E4%B9%90%3D%20%3D...%EF%BC%89.pdf "『rulesmd.ini』中的『美国国旗』代码.pdf")
 
 ## 实施
 0. 提供 Xcc_Mixer.exe 工具 从 .mix 文件中 提取各 .ini，  
