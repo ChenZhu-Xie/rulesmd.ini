@@ -35,6 +35,8 @@
     * (Personal time) formated by 14 ~ 24-year-old xcz
     * (Personal stage) summarized during the 3rd year of college around 2019 (2.5/4.0 years)
 
+<!-- df -->
+
 <!-- ## Software Architecture
 Software architecture description
 
