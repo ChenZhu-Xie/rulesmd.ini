@@ -1,4 +1,4 @@
-[![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover_paperclip.png "The『effect』of modified『rulesmo.ini』in『Mental Omega 3.3.6』")](https://github.com/ChenZhu-Xie/rulesmd.ini/tree/master/rules.ini%E3%80%81rulesmd.ini%E3%80%81rulescs.ini%E3%80%81rulesmo.ini%E3%80%81abcdefg.ini/Mental%20Omega%20v3.3.6%20rulesmo.ini/%E6%9C%80%E7%BB%88%20ini "The『effect』of modified『rulesmo.ini』in『Mental Omega 3.3.6』")
+[![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover_paperclip.png "The『effect』of modified『rulesmo.ini』in『Mental Omega 3.3.6』.ini")](https://github.com/ChenZhu-Xie/rulesmd.ini/tree/master/rules.ini%E3%80%81rulesmd.ini%E3%80%81rulescs.ini%E3%80%81rulesmo.ini%E3%80%81abcdefg.ini/Mental%20Omega%20v3.3.6%20rulesmo.ini/%E6%9C%80%E7%BB%88%20ini "The『effect』of modified『rulesmo.ini』in『Mental Omega 3.3.6』.ini")
 
 # rulesmd.ini (for personal use only!)
 
