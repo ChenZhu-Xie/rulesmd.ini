@@ -10,7 +10,7 @@
     * 包含文件 ⊃「修改 这 17 个 rules.ini 文件的过程」.pdf
     * 扩展自项目 ≺ [rulesmd.ini](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/2__2.2__rulesmd.ini__1.0_year)
         * 属于生涯 ⊂ [高中 活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
-* English「README」ⓔ 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
+* English「README」ⓔ 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini)
 
 ## 介绍
 * 文件夹中有 17 个旧版 mod 的 原版 + 修改版 rules.ini 文件，
